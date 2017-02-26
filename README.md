@@ -1,2 +1,1 @@
-# Responsive-Portfolio
-Homework 2a
+# Basic-Portfolio
