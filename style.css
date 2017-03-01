@@ -222,22 +222,21 @@ input:focus, textarea:focus {
 }
 
 
-
-
-
 @media only screen and (max-width: 980px) {
 	
 }
 
 @media only screen and (max-width: 768px) {
 
-	#words {float: left; 
-			clear: top; 
-			overflow: auto;}
+	#words {
+		float: left; 
+		clear: top; 
+		overflow: auto;}
 
-	nav {}
+	nav {
 
 
+	}
 	
 }
 @media only screen and (max-width: 640px) {
